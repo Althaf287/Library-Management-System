@@ -1,7 +1,7 @@
 # Library-Management-System
 sql Project Overview The Library Management System (LMS) is a comprehensive solution designed to manage library operations efficiently. It keeps track of books, their availability, customer registrations, and employee details, ensuring smooth management of library resources.
 ## Features
-### Branch Management: Track library branches, their addresses, and contact information.
+#### Branch Management: Track library branches, their addresses, and contact information.
 ### Employee Management: Manage employee details including roles and salaries.
 ### Book Management: Maintain a catalog of books, including their status and rental prices.
 ### Customer Management: Handle customer registrations and track their borrowing history.
