@@ -1,43 +1,43 @@
 # Library-Management-System
 sql Project Overview The Library Management System (LMS) is a comprehensive solution designed to manage library operations efficiently. It keeps track of books, their availability, customer registrations, and employee details, ensuring smooth management of library resources.
-Features
-Branch Management: Track library branches, their addresses, and contact information.
-Employee Management: Manage employee details including roles and salaries.
-Book Management: Maintain a catalog of books, including their status and rental prices.
-Customer Management: Handle customer registrations and track their borrowing history.
-Issue and Return Tracking: Record the issuance and return of books, along with related dates.
-Database Structure
-The database named library contains the following tables:
+## Features
+## Branch Management: Track library branches, their addresses, and contact information.
+## Employee Management: Manage employee details including roles and salaries.
+## Book Management: Maintain a catalog of books, including their status and rental prices.
+## Customer Management: Handle customer registrations and track their borrowing history.
+## Issue and Return Tracking: Record the issuance and return of books, along with related dates.
+## Database Structure
+## The database named library contains the following tables:
 
-Branch
+## Branch
 
-branch_no (Primary Key)
-manager_id
-branch_address
-contact_no
-Employee
+## branch_no (Primary Key)
+## manager_id
+## branch_address
+## contact_no
+## Employee
 
-emp_id (Primary Key)
-emp_name
-position
-salary
-branch_no (Foreign Key)
-Books
+## emp_id (Primary Key)
+## emp_name
+## position
+## salary
+## branch_no (Foreign Key)
+## Books
 
-ISBN (Primary Key)
-book_title
-category
-rental_price
-status (Available/Not Available)
-author
-publisher
-Customer
+## ISBN (Primary Key)
+## book_title
+## category
+## rental_price
+## status (Available/Not Available)
+## author
+## publisher
+## Customer
 
-customer_id (Primary Key)
-customer_name
-customer_address
-reg_date
-IssueStatus
+## customer_id (Primary Key)
+## customer_name
+## customer_address
+## reg_date
+## IssueStatus
 
 issue_id (Primary Key)
 issued_cust (Foreign Key)
