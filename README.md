@@ -59,15 +59,15 @@ isbn_book2 (Foreign Key)
 ## SQL Queries
 ### This project includes a set of SQL queries to retrieve and manipulate data:
 
-Retrieve the book title, category, and rental price of all available books.
-List employee names and their respective salaries in descending order.
-Retrieve book titles and corresponding customers who have issued those books.
-Display the total count of books in each category.
-Retrieve employee names and positions for those with salaries above Rs. 50,000.
-List customer names registered before 2022-01-01 who have not issued any books.
-Display branch numbers and total count of employees in each branch.
-Display names of customers who issued books in June 2023.
-Retrieve book titles containing 'history'.
-Retrieve branch numbers with more than 5 employees.
-Retrieve names of branch managers and their respective addresses.
-Display names of customers who have issued books with a rental price higher than Rs. 25. 
+1.Retrieve the book title, category, and rental price of all available books.
+2.List employee names and their respective salaries in descending order.
+3.Retrieve book titles and corresponding customers who have issued those books.
+4.Display the total count of books in each category.
+5.Retrieve employee names and positions for those with salaries above Rs. 50,000.
+6.List customer names registered before 2022-01-01 who have not issued any books.
+7.Display branch numbers and total count of employees in each branch.
+8.Display names of customers who issued books in June 2023.
+9.Retrieve book titles containing 'history'.
+10.Retrieve branch numbers with more than 5 employees.
+11.Retrieve names of branch managers and their respective addresses.
+12.Display names of customers who have issued books with a rental price higher than Rs. 25. 
